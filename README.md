@@ -7,3 +7,5 @@
 # making changes to the read me branch again 
 
 # added new line
+
+## write the changes you made per commit
